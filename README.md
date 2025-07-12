@@ -1,0 +1,2 @@
+# blueprynt
+Declaritive system configuration
